@@ -13,14 +13,6 @@
   --grayish-blue: hsl(218, 22%, 67%);
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 /* html styling */
 html {
   display: flex;
@@ -122,4 +114,13 @@ button {
 
 .item-3 p {
   color: var(--light-gray);
+}
+
+/* attribution styling */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
